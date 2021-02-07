@@ -32,6 +32,9 @@ education:
   - course: Technical Communications
     institution: Texas Tech University
     year: 2019 - 2023
+    
+Organizations:
+  - name: FIRST
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
