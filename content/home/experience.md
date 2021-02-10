@@ -31,14 +31,14 @@ experience:
     description: |2-
         I work as an assistant for the TTU STEAM outreach department. The program is responsibile for providing STEM based activites and events for the west/panhandle Texas community, such as FIRST FTC, BEST, GEAR, engineering clubs, engineering fairs, etc. 
 
-        Responsibilities include:
+       Responsibilities include:
         
-        * Working with students, teachers, and volunteers involved in FTC, BEST, or GEAR. 
-        * Come up with new ways for the program to improve and innovate.
-        * Keep up to date with information regarding FIRST and BEST.
-        * Create resources to assist coaches and students with their robotics programs.
-        * Help judge any robotics activites needed to be done.
-        * Help train coaches and volunteers on any software needed to be used to compete in FIRST or BEST.
+       * Working with students, teachers, and volunteers involved in FTC, BEST, or GEAR. 
+       * Come up with new ways for the program to improve and innovate.
+       * Keep up to date with information regarding FIRST and BEST.
+       * Create resources to assist coaches and students with their robotics programs.
+       * Help judge any robotics activites needed to be done.
+       * Help train coaches and volunteers on any software needed to be used to compete in FIRST or BEST.
         
   - title: Part-Time Campus Technician
     company: Lubbock-Cooper ISD
