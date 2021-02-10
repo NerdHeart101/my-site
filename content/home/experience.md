@@ -31,7 +31,7 @@ experience:
     description: |2-
         I work as an assistant for the TTU STEAM outreach department. The program is responsibile for providing STEM based activites and events for the west/panhandle Texas community, such as FIRST FTC, BEST, GEAR, engineering clubs, engineering fairs, etc. 
 
-       Responsibilities include:
+        Responsibilities include:
         
        * Working with students, teachers, and volunteers involved in FTC, BEST, or GEAR. 
        * Come up with new ways for the program to improve and innovate.
