@@ -1,7 +1,7 @@
 ---
 title: Garrett Smith
 role: Texas Tech STEM Outreach & Engagement Assistant
-avatar_filename: profilepic.png
+avatar_filename: avatar.jpg
 bio: I am a technical communications student with a passion for STEAM education
   and instruction.
 interests:
