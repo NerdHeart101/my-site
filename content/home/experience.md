@@ -49,9 +49,9 @@ experience:
       My job was to setup, manage, troubleshoot, and fix technology related issues on a campus level.
 
       Responsibilities Included:
-      
-      * Enrolling iPads, iPods, Apple TVs, and Macbooks for student and staff use at the campus.
-      * Responding to technology issues through a helpdesk application.
-      * Inventorying technology in a assets database.
-      * Image and configure any Windows devices on campus.
-      * Working with campus staff, teachers and administrators, to troubleshoot technology issues.
+
+      * Enrolling iPads, iPods, Apple TVs, and Macbooks for student and staff use at the campus
+      * Responding to technology issues through a helpdesk application
+      * Inventorying technology in a assets database
+      * Image and configure any Windows devices on campus
+      * Working with campus staff, teachers and administrators, to troubleshoot technology issues
