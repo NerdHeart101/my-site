@@ -80,24 +80,24 @@ experience:
         * Helping structure and organize our JAMF sever.
         * Come up with new ways to improve our MDM workflows.
 
-      - title: Part-Time Campus Technician
-          company: Lubbock-Cooper ISD
-          company_url: 'https://www.lcisd.net'
-          location: Lubbock, Texas
-          date_start: '2018-05-30'
-          date_end: '2018-12-28'
-          description: |2-
-            My job was to setup, manage, troubleshoot, and fix technology issues on a campus level.
+    - title: Part-Time Campus Technician
+        company: Lubbock-Cooper ISD
+        company_url: 'https://www.lcisd.net'
+        location: Lubbock, Texas
+        date_start: '2018-05-30'
+        date_end: '2018-12-28'
+        description: |2-
+          My job was to setup, manage, troubleshoot, and fix technology issues on a campus level.
 
-            Responsibilities Included:
+          Responsibilities Included:
 
-            * Enrolling iPads, iPods, Apple TVs, and Macbooks for student and staff use at the campus.
-            * Responding to technology issues through a helpdesk application.
-            * Inventorying technology in a assets database.
-            * Image and configure any Windows devices on campus.
-            * Working with campus staff, teachers and administrators, to troubleshoot technology issues.
-  
-      - title: Student Technician
+          * Enrolling iPads, iPods, Apple TVs, and Macbooks for student and staff use at the campus.
+          * Responding to technology issues through a helpdesk application.
+          * Inventorying technology in a assets database.
+          * Image and configure any Windows devices on campus.
+          * Working with campus staff, teachers and administrators, to troubleshoot technology issues.
+
+    - title: Student Technician
         company: Lubbock-Cooper ISD
         company_url: 'https://www.lcisd.net'
         location: Lubbock, Texas
