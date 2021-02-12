@@ -96,4 +96,12 @@ experience:
         * Inventorying technology in a assets database.
         * Image and configure any Windows devices on campus.
         * Working with campus staff, teachers and administrators, to troubleshoot technology issues.
+  
+  - title: Student Technician
+    company: Lubbock-Cooper ISD
+    company_url: 'https://www.lcisd.net'
+    location: Lubbock, Texas
+    date_start: '2018-05-30'
+    date_end: '2018-12-28'
+    description: Example
 ---
