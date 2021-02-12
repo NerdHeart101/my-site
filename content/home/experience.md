@@ -55,4 +55,28 @@ experience:
         * Inventorying technology in a assets database.
         * Image and configure any Windows devices on campus.
         * Working with campus staff, teachers and administrators, to troubleshoot technology issues.
+  
+  - title: Mobile Device Management Technician
+    company: Lubbock-Cooper ISD
+    company_url: 'https://www.lcisd.net'
+    location: Lubbock, Texas
+    date_start: '2019-01-07'
+    date_end: '2019-12-22'
+    description: |2-
+        My job was to enroll, configure, manage, troubleshoot, and deploy Apple devices at a district level.
+
+        Responsibilities Included:
+
+        * Working with Apple School Manager.
+        * Working with Apple Configurator 2.
+        * Using JAMF to create and configure PreStage Enrollments, Apps, Groups, and Users for our deployments.
+        * Enrolling iPads, iPods, Macbooks, Mac Minis, iMacs, and Apple TVs at a district level.
+        * Planning out our processes and workflows for MDM deployments.
+        * Helping plan and implement Lubbock-Cooper ISD's first 1:1 deployment.
+        * Teaching other staff in our department about MDM and JAMF.
+        * Writing scripts to improve our MDM workflows.
+        * Creating documentation for our MDM workflows.
+        * Working with 3rd party tools such as AutoPckger, The MUT, DEPNotify, and NoMAD.
+        * Helping structure and organize our JAMF sever.
+        * Come up with new ways to improve our MDM workflows.
 ---
