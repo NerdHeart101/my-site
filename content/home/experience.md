@@ -107,8 +107,7 @@ experience:
         My first job in IT. I was a general purpose technician for the district.
 
         Responsibilities Included:
-
-        * Tasks/Responsibilities Included:
+        
         * Cleaning out AiOs, Desktops, Peripherals, Projectors, and Touchscreen devices.
         * Image Windows devices using a imaging server.
         * Configure and add printers to computers.
