@@ -104,5 +104,16 @@ experience:
     date_start: '2016-05-30'
     date_end: '2018-05-30'
     description: |2-
-      My first job in IT, I was a general purpose technician for the district.
+        My first job in IT, I was a general purpose technician for the district.
+
+        Responsibilities Included:
+        
+        * Cleaning out AiOs, Desktops, Peripherals, Projectors, and Touchscreen devices.
+        * Image Windows devices using a imaging server.
+        * Configure and add printers to computers.
+        * Install needed programs on the computers, examples included Microsoft Office and Adobe.
+        * Install Antivirus software.
+        * Perform basic cabling tasks, working with switches and hubs.
+        * Case and setup iPads.
+        * Help troubleshoot issues for LCISD staff.
 ---
