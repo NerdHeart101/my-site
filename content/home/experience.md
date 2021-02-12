@@ -33,15 +33,25 @@ experience:
 
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Help support teachers and students who participate in robotics competitions, such as FIRST, BEST, & GEAR
+        * Work on projects that help improve the program
+        * Train and support volunteers assisting with the programs activities
+        * Relaying important updates to our community
+        * Creating materials to assist teachers and students
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
----
+  - title: Part-Time Campus Technician
+    company: Lubbock-Cooper ISD
+    company_url: 'https://www.lcisd.net'
+    location: Lubbock, Texas
+    date_start: '2020-01-07'
+    date_end: '2020-08-22'
+    description: |2-
+      My job was to setup, manage, troubleshoot, and fix technology related issues on a campus level.
+
+      Responsibilities Included:
+      
+      * Enrolling iPads, iPods, Apple TVs, and Macbooks for student and staff use at the campus.
+      * Responding to technology issues through a helpdesk application.
+      * Inventorying technology in a assets database.
+      * Image and configure any Windows devices on campus.
+      * Working with campus staff, teachers and administrators, to troubleshoot technology issues.
