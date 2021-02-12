@@ -28,7 +28,7 @@ experience:
     location: Lubbock, Texas
     date_start: '2020-08-25'
     date_end: ''
-    description: >-
+    description: |2-
         I am an assistant for the TTU STEAM outreach & engagement program, where we provide STEAM based activities and events for the west and panhandle Texas region.
 
         Responsibilities include:
@@ -45,7 +45,7 @@ experience:
     location: Lubbock, Texas
     date_start: '2020-01-07'
     date_end: '2020-08-22'
-    description: >-
+    description: |2-
         My job was to setup, manage, troubleshoot, and fix technology issues on a campus level.
 
         Responsibilities Included:
@@ -62,7 +62,7 @@ experience:
    location: Lubbock, Texas
    date_start: '2019-01-07'
    date_end: '2019-12-22'
-   description: >-
+   description: |2-
        My job was to enroll, configure, manage, troubleshoot, and deploy Apple devices at a district level.
 
        Responsibilities Included:
@@ -86,7 +86,7 @@ experience:
     location: Lubbock, Texas
     date_start: '2018-05-30'
     date_end: '2018-12-28'
-    description: >-
+    description: |2-
         My job was to setup, manage, troubleshoot, and fix technology issues on a campus level.
 
         Responsibilities Included:
@@ -103,7 +103,7 @@ experience:
     location: Lubbock, Texas
     date_start: '2016-05-30'
     date_end: '2018-5-30'
-    description: >-
+    description: |2-
         My first job in IT. I was a general purpose technician for the district.
 
         Responsibilities Included:
