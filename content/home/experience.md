@@ -29,6 +29,7 @@ experience:
     date_start: '2020-08-25'
     date_end: ''
     description: |2-
+        I am an assistant for the TTU STEAM outreach & engagement program, where we provided STEAM based activities and events for the west and panhandle Texas region.
         Responsibilities include:
         
         * Analysing
