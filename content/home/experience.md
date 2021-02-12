@@ -79,4 +79,43 @@ experience:
         * Working with 3rd party tools such as AutoPckger, The MUT, DEPNotify, and NoMAD.
         * Helping structure and organize our JAMF sever.
         * Come up with new ways to improve our MDM workflows.
+
+  - title: Part-Time Campus Technician
+    company: Lubbock-Cooper ISD
+    company_url: 'https://www.lcisd.net'
+    location: Lubbock, Texas
+    date_start: '2018-05-30'
+    date_end: '2018-12-28'
+    description: |2-
+        My job was to setup, manage, troubleshoot, and fix technology issues on a campus level.
+
+        Responsibilities Included:
+
+        * Enrolling iPads, iPods, Apple TVs, and Macbooks for student and staff use at the campus.
+        * Responding to technology issues through a helpdesk application.
+        * Inventorying technology in a assets database.
+        * Image and configure any Windows devices on campus.
+        * Working with campus staff, teachers and administrators, to troubleshoot technology issues.
+  
+  
+  - title: Student Technician
+    company: Lubbock-Cooper ISD
+    company_url: 'https://www.lcisd.net'
+    location: Lubbock, Texas
+    date_start: '2016-05-30'
+    date_end: '2018-5-30'
+    description: |2-
+        My first job in IT. I was a general purpose technician for the district.
+
+        Responsibilities Included:
+
+        * Tasks/Responsibilities Included:
+        * Cleaning out AiOs, Desktops, Peripherals, Projectors, and Touchscreen devices.
+        * Image Windows devices using a imaging server.
+        * Configure and add printers to computers.
+        * Install needed programs on the computers, examples included Microsoft Office and Adobe.
+        * Install Antivirus software.
+        * Perform basic cabling tasks, working with switches and hubs.
+        * Case and setup iPads.
+        * Help troubleshoot issues for LCISD staff.
 ---
