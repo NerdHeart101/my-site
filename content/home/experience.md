@@ -45,5 +45,13 @@ experience:
     location: Lubbock, Texas
     date_start: '2020-01-07'
     date_end: '2020-08-22'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+      My job was to setup, manage, troubleshoot, and fix technology issues on a campus level.
+      
+      Responsibilities Included:
+      *Enrolling iPads, iPods, Apple TVs, and Macbooks for student and staff use at the campus.
+      *Responding to technology issues through a helpdesk application.
+      *Inventorying technology in a assets database.
+      *Image and configure any Windows devices on campus.
+      *Working with campus staff, teachers and administrators, to troubleshoot technology issues.
 ---
