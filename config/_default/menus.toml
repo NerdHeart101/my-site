@@ -34,7 +34,14 @@
   weight = 60
 
 [[main]]
-  name = "CodeLabs"
-  url = "codelabs/"
+  name = "Resources"
+  url = "resources/"
+  identifier = "resources"
   weight = 70
+
+[[main]]
+  name = "CodeLabs"
+  url = "resources/codelabs/"
+  parent = "resources"
+  weight = 71
 
