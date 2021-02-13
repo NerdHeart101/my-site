@@ -10,4 +10,4 @@ header:
   image: ""
 ---
 
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+[I'm an external link](https://nerdheart101.github.io/writing-your-first-teleop-program/index.html)
