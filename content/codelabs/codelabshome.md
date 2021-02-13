@@ -6,4 +6,4 @@ design:
   columns: '1'
 ---
 
-[I'm an external link](https://www.google.com)
+[I'm an external link](/writing-your-first-teleop-program)
