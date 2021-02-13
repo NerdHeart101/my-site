@@ -45,3 +45,38 @@
   parent = "resources"
   weight = 71
 
+[[main]]
+  name = "Guides"
+  url = "resources/guides/"
+  parent = "resources"
+  weight = 72
+
+[[main]]
+  name = "SlideDecks"
+  url = "resources/slidedecks/"
+  parent = "resources"
+  weight = 73
+
+[[main]]
+  name = "Webinars"
+  url = "resources/webinars/"
+  parent = "resources"
+  weight = 74
+
+[[main]]
+  name = "Lesson Plans"
+  url = "resources/lessonplans/"
+  parent = "resources"
+  weight = 75
+
+[[main]]
+  name = "Notes"
+  url = "resources/notes/"
+  parent = "resources"
+  weight = 76
+
+[[main]]
+  name = "Community Resource Library"
+  url = "resources/communityresourcelibrary/"
+  parent = "resources"
+  weight = 77
