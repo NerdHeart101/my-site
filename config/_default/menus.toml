@@ -33,3 +33,8 @@
   url = "#contact"
   weight = 60
 
+[[main]]
+  name = "CodeLabs"
+  url = "codelabs/"
+  weight = 70
+
