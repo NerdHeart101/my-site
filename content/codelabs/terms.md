@@ -13,4 +13,4 @@ header:
 ---
 
 Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
-[link](https://roboraiderg.netlify.app/)
+[link](https://nerdheart101.github.io/writing-your-first-teleop-program/index.html)
