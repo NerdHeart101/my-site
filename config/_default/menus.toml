@@ -80,3 +80,9 @@
   url = "resources/communityresourcelibrary/"
   parent = "resources"
   weight = 77
+
+[[main]]
+  name = "Blog Posts"
+  url = "resources/blogposts/"
+  parent = "resources"
+  weight = 78
